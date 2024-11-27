@@ -5,7 +5,7 @@
 
 Eine .NET-Bibliothek zum direkten Lesen von Daten aus einer DaNiS-Datenbank:
 
-+ Unterstützt .NET 6, .NET 7 and .NET 8
++ Unterstützt .NET 6, .NET 8 and .NET 9
 + Direkter Zugriff auf die MariaDB-Datenbank
 + Low Level Reader zum Lesen von DaNiS-Entitäten
 
